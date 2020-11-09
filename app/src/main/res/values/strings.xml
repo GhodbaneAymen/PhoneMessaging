@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneMessaging</string>
+
+    <string name="contact">Jane Doe</string>
+    <string name="phone_number">14155551212</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="enter_msg">Enter message here</string>
+    <string name="send_msg">Send a message</string>
+</resources>
